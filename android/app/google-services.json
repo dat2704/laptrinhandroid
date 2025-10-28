@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525585549713",
+    "project_id": "duonwwggg",
+    "storage_bucket": "duonwwggg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525585549713:android:92f18e4a928971ec2af230",
+        "android_client_info": {
+          "package_name": "com.example.cua_hang_thoi_trang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP3E8nwrCf_HtxZfevZsaXczdkoci4tRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
